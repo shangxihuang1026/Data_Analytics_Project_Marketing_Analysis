@@ -24,12 +24,12 @@ Suggest data-driven improvements to marketing strategies and customer experience
 
 
 ## 🛠️ Tools & Methods by Stage
-Stage	Task:	Tools / Techniques
-1️⃣ Data Cleaning: Prepared SQL scripts for cleaned data for use in PowerBI
-2️⃣ Exploratory Data Analysis:	Investigated dimensions and measures, and implemented magnitude analysis w/ SQL
-3️⃣ Conversion Analysis: Implemented preliminary conversion rate analysis by customer (gender, age group), product, and country w/ SQL
-4️⃣ Sentiment Analysis:	Understand customer feedback from reviews	w/ Python's NLTK, VADER Sentiment Analyzer
-5️⃣ Dashboarding:	Visualize KPIs and insights w/ Power BI
+Stage	Task:	Tools / Techniques  
+1️⃣ Data Cleaning: Prepared SQL scripts for cleaned data for use in PowerBI  
+2️⃣ Exploratory Data Analysis:	Investigated dimensions and measures, and implemented magnitude analysis w/ SQL  
+3️⃣ Conversion Analysis: Implemented preliminary conversion rate analysis by customer (gender, age group), product, and country w/ SQL  
+4️⃣ Sentiment Analysis:	Understand customer feedback from reviews	w/ Python's NLTK, VADER Sentiment Analyzer  
+5️⃣ Dashboarding:	Visualize KPIs and insights w/ Power BI  
 
 
 ## 📊 Results Summary
