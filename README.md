@@ -44,9 +44,14 @@ The highest user drop-off was observed at the checkout stage, suggesting that wh
 ### 2. Sentiment Trends:
 Negative reviews commonly cited poor product performance, high product price, poor customer service, delivery delays and unclear instructions. These issues highlight areas where operational and post-purchase experiences may be impacting overall satisfaction. At the same time, majority of the positive reviews showed satisfaction with product quality, product price, customer support, and speedy delivery. 
 
-**Recommendations**: Highlight well-reviewed aspects such as product quality and fast delivery in campaigns, while coordinating with operations and customer support teams to ensure consistency in customer experience and address the pain points cited in negative reviews. Marketing should also set realistic expectations around delivery times and support responsiveness to build trust. Incorporate customer sentiment monitoring into future marketing strategies.
+**Recommendations**: 
+- Highlight well-reviewed aspects such as product quality and fast delivery in campaigns, while coordinating with operations and customer support teams to ensure consistency in customer experience and address the pain points cited in negative reviews. Marketing should set realistic expectations around delivery times and support responsiveness to build trust.
+- Incorporate customer sentiment monitoring into future marketing strategies.
 
 ### 3. Channel Performance Insights
 Among all marketing content types, blogs attracted higher customer engagement, outperforming social media posts and video content in terms of views. This suggests that customers may be more engaged with informative or long-form content. Despite the relative strength of blogs, there was a general downward trend in customer engagement across all channels over the year. This indicates potential content fatigue, audience saturation, or a lack of fresh targeting strategies.
 
-**Recommendations**: Prioritize and invest in high-performing blog content. Reassess and refresh social media and video strategies, possibly through new formats or personalized targeting. Monitor engagement trends over time and test new content types to reverse the overall decline.
+**Recommendations**: 
+- Prioritize and invest in high-performing blog content.
+- Reassess and refresh social media and video strategies, possibly through new formats or personalized targeting.
+- Monitor engagement trends over time and test new content types to reverse the overall decline.
